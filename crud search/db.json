@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "pankajacas",
+      "username": "pankajbhandari",
+      "email": "pankaj@mail.com",
+      "age": 50
+    },
+    {
+      "name": "aman",
+      "username": "arre",
+      "email": "aman@mail.com",
+      "age": "32",
+      "id": "H6Y2_dUuGz4"
+    },
+    {
+      "name": "localbanda",
+      "username": "localkhiladi",
+      "email": "local@mail.com",
+      "age": "56",
+      "id": "ZGAS6F2xa8o"
+    },
+    {
+      "name": "kala",
+      "username": "jackloferop",
+      "email": "",
+      "age": "12",
+      "id": "PJmpcWwUC7g"
+    },
+    {
+      "name": "pankaj",
+      "username": "kakoia",
+      "email": "",
+      "age": "78",
+      "id": "Pn-wljJpjk8"
+    },
+    {
+      "name": "scas",
+      "username": "galarhit451",
+      "email": "scas@mail.com",
+      "age": "",
+      "id": "fZnVxzX5twc"
+    },
+    {
+      "name": "eerere",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "2aMUPWLygt8"
+    },
+    {
+      "name": "blackia",
+      "username": "scsc",
+      "email": "",
+      "age": "89",
+      "id": "_DMLPsOtqiU"
+    },
+    {
+      "name": "mkmk",
+      "username": "local",
+      "email": "",
+      "age": "45",
+      "id": "kjkbzOGcSrA"
+    },
+    {
+      "name": "loko",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "JLbRNbNAcgI"
+    },
+    {
+      "name": "blaokioko",
+      "username": "klkko",
+      "email": "koka@mail.comlio",
+      "age": "",
+      "id": "_Gbj6DJT7ZY"
+    },
+    {
+      "name": "kala",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "K4MaTQuxaLs"
+    },
+    {
+      "name": "ksmckasc",
+      "username": "kalrkpant",
+      "email": "hire@mail.com",
+      "age": "56",
+      "id": "I0eOhZ0OkS0"
+    },
+    {
+      "name": "aman",
+      "username": "ladki",
+      "email": "",
+      "age": "96",
+      "id": "K-1NV-Ju9nk"
+    },
+    {
+      "name": "joker",
+      "username": "",
+      "email": "",
+      "age": "78",
+      "id": "bMq7XYEUSVY"
+    },
+    {
+      "name": "panha",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "XNZb5jVI9XE"
+    },
+    {
+      "name": "kala",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "0DkP30VbaR0"
+    },
+    {
+      "name": "babu maan",
+      "username": "",
+      "email": "",
+      "age": "45",
+      "id": "3OG8kf1V6uA"
+    },
+    {
+      "name": "tiger",
+      "username": "",
+      "email": "",
+      "age": "",
+      "id": "5c9Ajlp3IHQ"
+    },
+    {
+      "name": "ashu",
+      "username": "jack",
+      "email": "danga@mail.com",
+      "age": "89",
+      "id": "aEUAm5-V4KY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
