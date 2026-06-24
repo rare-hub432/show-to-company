@@ -1,0 +1,68 @@
+[
+	{
+		"id" : 1,
+		"question" : "local is mainly used for?",
+		"options" : [
+			"check",
+			"mobile Apps",
+			"building ui",
+			"none"
+		],
+		"answer" : "building ui"
+	},
+	{
+		"id" : 2,
+		"question" : "which hook is used for state?",
+		"options" : [
+			"useEffect",
+			"useState",
+			"useMemo",
+			"useContext"
+		],
+		"answer" : "useState"
+	},
+	{
+		"id" : 3,
+		"question" : "what are you looking at?",
+		"options" : [
+			"intersted",
+			"exiting",
+			"checking",
+			"knowing"
+		],
+		"answer" : "intersted"
+	},
+	{
+		"id" : 4,
+		"question" : "tera naam kya hai?",
+		"options" : [
+			"kala",
+			"pila",
+			"chita",
+			"pangu"
+		],
+		"answer" : "chita"
+	},
+	{
+		"id" : 5,
+		"question" : "january kya hai?",
+		"options" : [
+			"saal",
+			"mahina",
+			"day",
+			"kuch nhi"
+		],
+		"answer" : "mahina"
+	},
+	{
+		"id" : 6,
+		"question" : "kha hai tu?",
+		"options" : [
+			"galaxy",
+			"dharti",
+			"checking",
+			"kahi nahi"
+		],
+		"answer" : "dharti"
+	}
+]
